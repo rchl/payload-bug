@@ -17,7 +17,6 @@
     "outDir": "./dist" /* Redirect output structure to the directory. */,
     "resolveJsonModule": true,
     "rootDir": "." /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
-    "skipLibCheck": true /* Skip type checking of declaration files. */,
     "sourceMap": true,
     "strict": false /* Enable all strict type-checking options. */,
     "types": ["jest", "node", "@types/jest"]
